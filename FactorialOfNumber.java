@@ -20,6 +20,4 @@ public class FactorialOfNumber
         }
         return fact;
     }
-    
-
 }
